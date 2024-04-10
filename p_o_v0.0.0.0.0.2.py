@@ -26,8 +26,6 @@ if (a=="y"):
                 file.write("\n")
                 file.write("_______________________________________________________________________________________________________________________________")
                 print("the data was entered successfully")
-                
-        elif (d=="n"):
             f = input("do you have a microsoft account? ")
             if (f=="y"):
                 g = input("enter the microsoft email address:")
@@ -39,7 +37,6 @@ if (a=="y"):
                     file.write("\n")
                     file.write("___________________________________________________________________________________________________________________________")
                     print("the data was entered successfully")
-                    
             elif (f=="n"):
                 h = input("do you have a amazon account? ")
                 if (h=="y"):
@@ -52,7 +49,6 @@ if (a=="y"):
                         file.write("\n")
                         file.write("_______________________________________________________________________________________________________________________")
                         print("the data was entered successfully")
-                        
                 else:
                     print("sorry, i did'nt get that.")
             else:
@@ -68,7 +64,6 @@ if (a=="y"):
                 file.write(ee)
                 file.write("_______________________________________________________________________________________________________________________________")
                 print("the data was entered successfully")
-                
         elif (d=="n"):
             f = input("do you have a microsoft account? ")
             if (f=="y"):
@@ -80,7 +75,6 @@ if (a=="y"):
                     file.write(gg)
                     file.write("___________________________________________________________________________________________________________________________")
                     print("the data was entered successfully")
-                    
             elif (f=="n"):
                 h = input("do you have a amazon account? ")
                 if (h=="y"):
@@ -92,7 +86,6 @@ if (a=="y"):
                         file.write(ii)
                         file.write("_______________________________________________________________________________________________________________________")
                         print("the data was entered successfully")
-                        
                 else:
                     print("sorry, i did'nt get that.")
             else:
