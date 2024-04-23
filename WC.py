@@ -7,5 +7,6 @@ if os.path.isfile(filen):
     print("Checking -")
     print("Checking |")
     print("File exists")
+    os.system("wc -w ",filen)
 else:
     print("It's a CAP,File does not exist")
