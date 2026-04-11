@@ -1,3 +1,3 @@
 ```python
-all the files are created by Aarav are present in this repository.
+all the files created by Aarav are present in this repository.
 ```
