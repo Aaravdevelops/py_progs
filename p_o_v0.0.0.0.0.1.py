@@ -49,12 +49,12 @@ if (a=="y"):
                         print("the data was entered successfully")
                         
                 else:
-                    print("sorry, i did'nt get that.")
+                    print("sorry, i didn't get that.")
             else:
-                print("sorry, i did'nt get that.")
+                print("sorry, i didn't get that.")
         else:
-            print("sorry, i did'nt get that.")
+            print("sorry, i didn't get that.")
     else:
-        print("sorry, i did'nt get that.")
+        print("sorry, i didn't get that.")
 else:
-    print("sorry, i did'nt get that")
+    print("sorry, i didn't get that")
