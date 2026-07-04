@@ -117,7 +117,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Aarav** - [@AaravDevelops](https://github.com/Aaravdevelops)
 
-- **Email**: Contactaaravat@fearlessmails.com
+- **Email**: aaravdevelops@therategmail.com
 - **GitHub**: [Aaravdevelops](https://github.com/Aaravdevelops)
 - **Project Link**: [https://github.com/Aaravdevelops/py_progs](https://github.com/Aaravdevelops/py_progs)
 
